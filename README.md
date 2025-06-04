@@ -7,6 +7,9 @@
 
 <h1 align="center"><b>NHẬP MÔN THỊ GIÁC MÁY TÍNH</b></h>
 
+[![DeepWiki](https://img.shields.io/badge/DeepWiki-Documentation-blue)](https://deepwiki.com/quocthinhvo/CS231)
+
+
 ## THÀNH VIÊN NHÓM
 | STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
