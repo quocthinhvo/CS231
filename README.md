@@ -58,6 +58,9 @@ Thứ tự các bước thực hiện như sau:
 
 ## KẾT LUẬN
 
+[![Demo Yolo](/yolo8l_30epoch/val_batch1_pred.jpg)](#)
+
+
 Trong đề tài này, nhóm đã nghiên cứu và triển khai bài toán phân loại sản phẩm thời trang dựa trên hình ảnh, với hai hướng tiếp cận chính: sử dụng mô hình CNN (ResNet50) cho bài toán phân loại thuần túy, và sử dụng mô hình YOLOv8 cho bài toán phát hiện và phân loại kết hợp.
 Kết quả huấn luyện cho thấy mô hình ResNet50 đạt độ chính xác classification lên đến 77.29%, cho thấy khả năng học tốt các đặc trưng thị giác của từng loại sản phẩm trong tập dữ liệu DeepFashion2. Đây là một kết quả khả quan đối với một mô hình backbone cổ điển như ResNet50.
 
