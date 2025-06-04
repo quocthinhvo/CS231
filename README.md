@@ -18,6 +18,13 @@
 * **Năm học:** HK2 (2024 - 2025)
 * **Giảng viên**: TS. Mai Tiến Dũng
 
+## HÌNH ẢNH TỪ DEMO
+
+<!-- chèn ảnh -->
+[![Demo YOLO](/images/yolo_demo.jpg)](#)
+
+[![Demo ResNet50](/images/resnet_demo.jpg)](#)
+
 ## CÀI ĐẶT
 
 ### Tải dataset
